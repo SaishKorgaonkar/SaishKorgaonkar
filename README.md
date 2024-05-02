@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saish Pramod Korgaonkar</h1>
-<h3 align="center">Student / Learner / coder</h3>
+<h3 align="center">Student / Learner / Coder</h3>
 
 
 
