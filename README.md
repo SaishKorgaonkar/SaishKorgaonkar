@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **saishkorgaonkar14@gmail.com** **/** **saish.korgaonkar@somaiya.edu**
  
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RXQMgmljdEji3vYizS7aG8rZXm5pAHKU/view?usp=sharing](https://drive.google.com/file/d/1RXQMgmljdEji3vYizS7aG8rZXm5pAHKU/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1RXQMgmljdEji3vYizS7aG8rZXm5pAHKU/view?usp=sharing]([https://drive.google.com/file/d/1RXQMgmljdEji3vYizS7aG8rZXm5pAHKU/view?usp=sharing](https://drive.google.com/file/d/1Vx1BdpCxDxJjBv51Vc1RbGez77v6UvjU/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
