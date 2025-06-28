@@ -46,13 +46,10 @@
 `MongoDB` `PostgreSQL` `MySQL`
 
 #### ☁️ DevOps & Cloud
-`GCP` `AWS` `Git` `GitHub` `VS Code` `IntelliJ`
+`GCP` `AWS` `Git` `GitHub` `Docker`
 
 #### 🎮 Others
-`ROS` `Unity3D` `Unreal Engine`
-
-#### 🔍 Soft Skills
-`Teamwork` `Communication` `Time Management` `Logical Thinking` `Resilience`
+`ROS` `Unity3D` `Unreal Engine` `Arduino`
 
 ---
 
