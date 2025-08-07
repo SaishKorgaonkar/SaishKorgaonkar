@@ -79,7 +79,7 @@
 ---
 
 ### 🏆 Achievements
-
+- 🎓 Mckinsey Forward '25
 - 🥇 Finalist – Mumbai Hacks 2024 (SaaS Track)
 - 🧠 GSSoC 2024 Contributor – Postman APIs
 - 🧪 BARC Workshop Participant – Ranked 32 in Mumbai
