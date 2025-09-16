@@ -73,9 +73,6 @@
   - Regionalized ads for 10+ Indian cultures  
   - Finalist at Mumbai Hacks 2024  
 
-- **AI Workflow Automation** – Knowledge-intensive RAG pipelines  
-  _FastAPI, LangChain, AWS, ChromaDB_  
-  - Built modular conversational flows with form-filling, OCR, and multilingual support  
 
 ---
 
