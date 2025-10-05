@@ -34,10 +34,10 @@
 ### 🛠️ Skills & Technologies
 
 #### 💬 Languages
-`Java` `Python` `C/C++` `JavaScript` `HTML/CSS` `SQL` `PHP` `R`
+`Java` `Python` `C/C++` `JavaScript` `SQL` `Solidity` `HTML/CSS` `PHP` `R`
 
 #### ⚙️ Frameworks & Libraries
-`React.js` `Node.js` `Express.js` `Spring Boot` `FastAPI`  
+`React.js` `Node.js` `Express.js` `Spring Boot` `FastAPI` `Tailwind CSS` `Bootstrap`  
 `LangChain` `Gemini SDK` `RAG Architecture`  
 `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
@@ -49,30 +49,33 @@
 
 ---
 
-### 🌟 Highlight Projects
+### 💡 Projects
 
-#### 🔨 Internship Projects
-- **Self Service Bot @ DCB Bank**  
-  _Python, Streamlit, SQLAlchemy, AWS Textract, Gemini AI_  
-  - OCR-powered portal auto-extracting Aadhaar/PAN data (80% faster entry)  
-  - Integrated Gemini chatbot for 24/7 banking queries  
-  - Built secure user management with authentication & audit logging  
+- **RUNFT** – Web3 Move-to-Earn Fitness App  
+  _React, Solidity, Express.js, MongoDB_  
+  - Integrates Strava/GPS data to mint ERC-721 NFTs on Arbitrum Sepolia  
+  - NFT marketplace + staking mechanism rewarding users with ETH  
+  - MetaMask integration and TomTom-based route visualization  
 
-- **Project Allocation System @ KJSCE SDC**  
-  _MERN Stack_  
-  - Automated team/mentor allocations for 120+ students & faculty  
-  - Cut manual work by 50% with real-time reporting & APIs  
-
-#### 📁 Other Projects
 - **TourRaksha** – Smart Tourist Safety System  
-  _Flutter, Next.js, Solidity, Express, Postgres_  
-  - Blockchain-based ID, geo-fencing alerts, AI dashboards with anomaly detection  
+  _Flutter, Next.js, Solidity, Express.js, Postgres_  
+  - Blockchain-based digital ID with geo-fencing alerts and AI threat detection  
+  - Panic button + real-time dashboards for authorities  
 
-- **CulturAI** – AI-powered Ad Generator  
+- **Project Allocation System** – Academic Project Management Platform  
+  _MERN Stack_  
+  - Automates team and mentor assignments for 120+ students  
+  - Secure APIs with real-time project tracking and reporting  
+
+- **CulturAI** – AI-Powered Ad Generation Platform  
   _MERN, Firebase, Gemini, ML_  
-  - Regionalized ads for 10+ Indian cultures  
-  - Finalist at Mumbai Hacks 2024  
+  - Generates region-specific ad creatives for 10+ Indian cultures  
+  - Finalist @ Mumbai Hacks 2024 (SaaS Track)  
 
+- **DCB Self Service Bot** – AI Banking Assistant  
+  _Streamlit, Python, Gemini AI, SQLAlchemy, OCR_  
+  - Auto-extracts Aadhaar/PAN data (80% faster form processing)  
+  - Gemini chatbot for 24/7 query handling and audit logging  
 
 ---
 
