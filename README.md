@@ -87,13 +87,14 @@
 ### 🏆 Achievements
 
 - 🥇 **ETHGlobal Hackathon Winner**  
-- ☁️ **AWS Cloud Club Captain @ KJSCE**  
+- ☁️ **AWS Cloud Club Captain @ KJSCE**
+- 🎓 **McKinsey Forward '25**
+- ⭐ **2-Star on CodeChef**
 - 🧠 **Finalist – Mumbai Hacks 2024 (SaaS Track)**  
-- 🧩 **GSSoC 2024 Contributor** – Postman APIs  
-- 🎯 **Top 40** – ACM Winter School @ IIIT Hyderabad  
-- 🏆 1st Prize – Bayer Science Exhibition @ Nehru Science Centre  
-- ⭐ 2-Star on CodeChef  
-- 🎓 McKinsey Forward '25 Cohort Member  
+- 🎯 **Top 40 – ACM Winter School @ IIIT Hyderabad - AI & Finance**  
+- 🏆 **1st Prize – Bayer Science Exhibition @ Nehru Science Centre** 
+
+
 
 ---
 
