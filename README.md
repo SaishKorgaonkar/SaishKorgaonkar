@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saish Korgaonkar</h1>
-<h3 align="center">AI & Full Stack Dev | Ex-SDE Intern @ DCB Bank | Jt. Gen. Sec. @ CSI KJSCE | Finalist @ Mumbai Hacks</h3>
+<h3 align="center">🏆 ETHGlobal Hackathon Winner | AI & Full Stack Dev | Ex-SDE Intern @ DCB Bank | AWS Cloud Club Captain | Jt. Gen. Sec. @ CSI KJSCE | Finalist @ Mumbai Hacks</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saishkorgaonkar&label=Profile%20views&color=0e75b6&style=flat" alt="saishkorgaonkar" />
@@ -26,8 +26,9 @@
 ---
 
 🔭 I’m currently working on:
-- 🤝 A **stealth self project with 2 co-founders** – a crazy idea we’re exploring (Stay tuned!)  
-- ⏫ Learning **Cloud Technologies, MLOps, and Native Development**
+- 🚀 A **stealth AI x Cloud project** with 2 co-founders — building something exciting (stay tuned!)  
+- 🤖 Exploring **MLOps**, **Serverless Cloud**, and **Native App Development**
+- 🧠 Researching **RAG architectures**, **generative models**, and **AI-assisted automation**
 
 ---
 
@@ -51,51 +52,59 @@
 
 ### 💡 Projects
 
-- **RUNFT** – Web3 Move-to-Earn Fitness App  
-  _React, Solidity, Express.js, MongoDB_  
-  - Integrates Strava/GPS data to mint ERC-721 NFTs on Arbitrum Sepolia  
-  - NFT marketplace + staking mechanism rewarding users with ETH  
-  - MetaMask integration and TomTom-based route visualization  
+- **🧩 StakED** – Decentralized Academic Prediction Market  
+  _MERN Stack, Solidity, Hardhat_  
+  - Built a staking-based DApp that rewards users for correct academic predictions  
+  - Designed modular smart contracts for P2P rewards and protocol fees  
 
-- **TourRaksha** – Smart Tourist Safety System  
+- **🏃 RUNFT** – Web3 Move-to-Earn Fitness App  
+  _React, Solidity, Express.js, MongoDB_  
+  - Minted ERC-721 NFTs using Strava data on Arbitrum Sepolia  
+  - Created NFT marketplace + staking system with ETH rewards  
+
+- **🛰️ TourRaksha** – Smart Tourist Safety System  
   _Flutter, Next.js, Solidity, Express.js, Postgres_  
-  - Blockchain-based digital ID with geo-fencing alerts and AI threat detection  
+  - Blockchain-based digital ID with geo-fencing & AI threat alerts  
   - Panic button + real-time dashboards for authorities  
 
-- **Project Allocation System** – Academic Project Management Platform  
+- **🧱 Project Allocation System** – Academic Project Management Platform  
   _MERN Stack_  
-  - Automates team and mentor assignments for 120+ students  
-  - Secure APIs with real-time project tracking and reporting  
+  - Automated team and mentor allocation for 120+ students  
+  - Backend optimized for scalability and real-time updates  
 
-- **CulturAI** – AI-Powered Ad Generation Platform  
+- **🎨 CulturAI** – AI-Powered Ad Generation Platform  
   _MERN, Firebase, Gemini, ML_  
-  - Generates region-specific ad creatives for 10+ Indian cultures  
-  - Finalist @ Mumbai Hacks 2024 (SaaS Track)  
+  - Region-specific ad creatives for 10+ Indian cultures  
+  - Finalist @ **Mumbai Hacks 2024 (SaaS Track)**  
 
-- **DCB Self Service Bot** – AI Banking Assistant  
+- **💬 DCB Self Service Bot** – AI Banking Assistant  
   _Streamlit, Python, Gemini AI, SQLAlchemy, OCR_  
-  - Auto-extracts Aadhaar/PAN data (80% faster form processing)  
-  - Gemini chatbot for 24/7 query handling and audit logging  
+  - Automated multilingual form processing using AWS Textract  
+  - Integrated Gemini chatbot for 24/7 customer query resolution  
+
+---
+
+### 🏆 Achievements
+
+- 🥇 **ETHGlobal Hackathon Winner**  
+- ☁️ **AWS Cloud Club Captain @ KJSCE**  
+- 🧠 **Finalist – Mumbai Hacks 2024 (SaaS Track)**  
+- 🧩 **GSSoC 2024 Contributor** – Postman APIs  
+- 🎯 **Top 40** – ACM Winter School @ IIIT Hyderabad  
+- 🏆 1st Prize – Bayer Science Exhibition @ Nehru Science Centre  
+- ⭐ 2-Star on CodeChef  
+- 🎓 McKinsey Forward '25 Cohort Member  
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaishKorgaonkar&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaishKorgaonkar&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaishKorgaonkar&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaishKorgaonkar&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
 
-### 🏆 Achievements
-- 🎓 McKinsey Forward '25  
-- 🥇 Finalist – Mumbai Hacks 2024 (SaaS Track)  
-- 🧠 GSSoC 2024 Contributor – Postman APIs  
-- 🏆 1st Prize – Bayer Science Exhibition @ Nehru Science Centre  
-- 🧪 Ranked 32 in Mumbai – BARC Workshop  
-- ⭐ 2-Star on CodeChef  
-
----
-
-💬 Let’s connect if you're into building **AI x Web**, solving **real-world problems**, or driving **fintech innovation**!
+💬 Let’s connect if you're into building **AI x Web**, solving **real-world problems**, or driving **fintech innovation**!  
+⭐ _“Turning curiosity into code, and ideas into impact.”_
