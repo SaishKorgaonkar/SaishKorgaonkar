@@ -25,8 +25,7 @@
 
 ---
 
-🔭 I’m currently working on:
-- 🚀 A **stealth AI x Cloud project** with 2 co-founders — building something exciting (stay tuned!)  
+🔭 I’m currently working on: 
 - 🤖 Exploring **MLOps**, **Serverless Cloud**, and **Native App Development**
 - 🧠 Researching **RAG architectures**, **generative models**, and **AI-assisted automation**
 
