@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saish Korgaonkar</h1>
-<h3 align="center"> AI & Full-Stack Developer | ETHGlobal Hackathon Winner | AWS Cloud Club Captain | Jt.GenSec @CSI-KJSCE</h3>
+<h3 align="center">AI & Full-Stack Developer | ETHGlobal Hackathon Winner | AWS Cloud Club Captain | Jt.GenSec @CSI-KJSCE</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saishkorgaonkar&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
@@ -110,8 +110,16 @@ _Python | Gemini AI | Streamlit | OCR_
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SaishKorgaonkar&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaishKorgaonkar&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SaishKorgaonkar&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SaishKorgaonkar&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak Stats
+
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=SaishKorgaonkar&theme=tokyonight" />
 </p>
 
 ---
