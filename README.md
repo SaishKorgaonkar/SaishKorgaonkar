@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saish Korgaonkar</h1>
-<h3 align="center">AI & Full-Stack Developer | ETHGlobal Hackathon Winner | AWS Cloud Club Captain | Jt.GenSec @CSI-KJSCE</h3>
+<h3 align="center">R&D Engineer | Systems & AI | ETHGlobal Hackathon Winner</h3>
+<h4 align="center">AWS Cloud Club Captain | Jt. GenSec @ CSI-KJSCE</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saishkorgaonkar&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
@@ -27,37 +28,33 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Engineering undergrad with Honours in **Data Science & Analytics**
-- 🧠 Passionate about **AI systems, scalable backend engineering, and applied ML**
-- 💼 Experience in **ML pipelines, cloud-native development, and financial AI**
-- 🌐 Love building **developer tools, automation, and real-world AI integrations**
+- 🎓 Computer Engineering undergrad with **CGPA 9.63** & Honours in **Data Science**
+- 🧠 Specializing in **High-Performance Systems**, **R&D**, and **Trustworthy AI**
+- 💼 Experience in **Real-time Sensor Pipelines, Serverless Architectures, and Financial AI**
+- 🔬 Selected for the prestigious **ACM Winter School on AI & Finance** (Top 40 in India)
 
 ---
 
 ### 🔭 What I'm Currently Working On
 
-- Building real-time ML insights pipelines  
-- Exploring **MLOps**, **serverless automation**, and **native cross-platform apps**  
-- Experimenting with **RAG architectures**, generative AI, and multimodal systems  
+- 🦀 Exploring **Rust** and **Go** for distributed systems safety and performance
+- 🤖 Building **Agentic AI** workflows using **Model Context Protocol (MCP)**
+- ⚡ Optimizing end-to-end latency for real-time data streams
+- ☁️ Leading cloud workshops as the **AWS Cloud Club Captain**
 
 ---
 
 ## 🛠️ Skills & Technologies
 
 ### 💬 Programming Languages
-`Java` `Python` `C/C++` `JavaScript` `TypeScript` `SQL` `Solidity` `HTML/CSS` `PHP` `R`
+`C++` `Python` `Rust (Learning)` `Go (Learning)` `Java` `TypeScript` `SQL` `Solidity`
 
-### ⚙️ Frameworks & Libraries
-`React.js` `Node.js` `Express.js` `Spring Boot` `FastAPI` `TailwindCSS`  
-`LangChain` `Gemini SDK` `TensorFlow` `scikit-learn` `RAG Pipelines`  
-`Pandas` `NumPy` `Matplotlib` `Seaborn`
+### ⚙️ Systems & Cloud
+`AWS (Lambda, API Gateway, Bedrock)` `Docker` `Kubernetes` `Linux/Unix` `Git` `CI/CD`
 
-### 💾 Databases
-`MongoDB` `PostgreSQL` `MySQL` `Supabase` `Firebase Firestore` `ChromaDB`
-
-### ☁️ Cloud, DevOps & Tools
-`AWS (S3, Lambda, Textract, Bedrock, OpenSearch)`  
-`GCP` `Docker` `Git` `Postman` `GitHub Actions`
+### 🧠 AI & Data
+`PyTorch` `TensorFlow` `RAG Pipelines` `LangChain` `Vector DBs (Chroma, Pinecone)`  
+`Gemini SDK` `Pandas` `NumPy`
 
 ---
 
@@ -65,44 +62,31 @@
 
 ### 🧩 **StakED** – Decentralized Academic Prediction Market  
 _MERN | Solidity | Hardhat_  
-- Designed a staking-based prediction protocol  
-- Smart contracts for trustless P2P payouts and protocol fees  
+- 🏆 **Winner: Best Use of Autoscout Track @ ETHGlobal** - Designed a staking-based prediction protocol with Game-Theoretic incentives  
+
+### 🛰️ **TourRaksha** – Smart Tourist Safety System  
+_Flutter | Next.js | Solidity | Blockchain_  
+- Real-time anomaly detection and geo-fencing for tourist safety  
+- Implemented Blockchain-based digital ID verification  
 
 ### 🏃 **RUNFT** – Web3 Move-to-Earn Fitness App  
 _React | Solidity | Express.js | MongoDB_  
 - Minted GPS-based ERC-721 NFTs using Strava integrations  
 - Built marketplace + staking rewards mechanism  
 
-### 🛰️ **TourRaksha** – Smart Tourist Safety System  
-_Flutter | Next.js | Solidity | Postgres_  
-- Blockchain-backed digital ID + geo-fencing alerts  
-- Real-time AI dashboards for authorities  
-
-### 🧱 **Project Allocation System** – Academic Workflow Automation  
-_MERN Stack_  
-- Handles team formation, mentor allocation & evaluations for 120+ users  
-- Optimized backend for performance and real-time updates  
-
-### 🎨 **CulturAI** – Generative AI Ad Creation Platform  
-_MERN | Firebase | ML_  
-- Regionalized ad creatives for 10+ Indian cultures  
-- Finalist @ **Mumbai Hacks 2024**
-
 ### 💬 **DCB Self-Service Bot** – AI Banking Assistant  
 _Python | Gemini AI | Streamlit | OCR_  
 - Automated multilingual form processing with Textract  
-- Integrated conversational AI with structured data handling  
+- Reduced manual documentation load via conversational AI  
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **ETHGlobal Hackathon Winner**  
-- ☁️ **AWS Cloud Club Captain @ KJSCE**  
-- 🧠 **Top 40 – ACM Winter School (AI & Finance) at IIIT Hyderabad**  
-- 🎓 **McKinsey Forward Cohort 2025**  
-- ⭐ **2-Star CodeChef**  
-- 🚀 **Finalist – Mumbai Hacks 2024 (SaaS Track)**  
+- 🥇 **ETHGlobal Hackathon Winner** (Best Use of Autoscout)
+- 🧠 **Selected Candidate** – ACM Winter School on AI & Finance (IIIT Hyderabad)
+- ☁️ **AWS Cloud Club Captain @ KJSCE**
+- 🚀 **Finalist – Mumbai Hacks 2024 (SaaS Track)**
 - 🏆 **Bayer Science Exhibition – First Prize**
 
 ---
@@ -116,13 +100,6 @@ _Python | Gemini AI | Streamlit | OCR_
 
 ---
 
-## 🔥 GitHub Streak Stats
-
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=SaishKorgaonkar&theme=tokyonight" />
+  <i>"Turning curiosity into code, and ideas into impact."</i>
 </p>
-
----
-
-🌟 _“Turning curiosity into code, and ideas into impact.”_  
-💬 Always open to collaborating on **AI, fintech systems, and full-stack projects**.
