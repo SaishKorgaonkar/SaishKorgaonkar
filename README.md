@@ -81,6 +81,24 @@ _Python | Gemini AI | Streamlit | OCR_
 
 ---
 
+## 🏅 Certifications & Badges
+
+<p align="center">
+  <a href="https://www.credly.com/badges/fa2f1ccd-82ce-45bf-9854-14a4cca407c7" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/54fdb971-fd75-4c35-88d3-a26abf11dfc8/image.png" height="110" alt="AWS Cloud Club Captain"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/earner/earned/badge/ada53260-fd3d-4569-a259-13df0159b49d" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/bad47198-deb5-48db-bbc3-85adb64db125/blob" height="110" alt="McKinsey Forward"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://badgr.com/public/assertions/KVoFdl_3TZqkLJmHMLv-4Q" target="_blank">
+    <img src="https://ci3.googleusercontent.com/meips/ADKq_NYmP9UXbB7-Lg-rWVNCYuaW-IKkspSuKtrTdfacyQcSqBoa8RxJtgygxmxt2W-La4LNveLo-XMhc2JUE4qNBpUmvyA9qAdOSyJH2XWLVOyXQprGoqpStY1k=s0-d-e1-ft#https://api.badgr.io/public/assertions/KVoFdl_3TZqkLJmHMLv-4Q/image" height="110" alt="Postman API Fundamentals Student Expert"/>
+  </a>
+</p>
+
+---
+
 ## 🏆 Achievements
 
 - 🥇 **ETHGlobal Hackathon Winner** (Best Use of Autoscout)
