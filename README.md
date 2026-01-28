@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://saish-korgaonkar.vercel.app/" target="_blank">
+  <a href="https://saish.xyz/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=next.js&logoColor=white" />
   </a>
 
