@@ -1,128 +1,77 @@
-<h1 align="center">Hi 👋, I'm Saish Korgaonkar</h1>
-<h3 align="center">R&D Engineer | Systems & AI | ETHGlobal Hackathon Winner</h3>
-<h4 align="center">AWS Cloud Club Captain | Jt. GenSec @ CSI-KJSCE</h4>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saishkorgaonkar&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-</p>
+<h1 align="center">Saish Korgaonkar</h1>
+<h3 align="center">4x Hackathon Winner | Full-Stack AI & ZK Infrastructure Engineer | High-Velocity Builder</h3>
+<h4 align="center">AWS Cloud Club Captain | Jt. GenSec @ CSI-KJSSE</h4>
 
 <p align="center">
   <a href="https://saish.xyz/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/saish-korgaonkar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/SaishKorgaonkar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://x.com/saishh_k" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
   </a>
   <a href="mailto:saishkorgaonkar14@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/Saish_k_14" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://dev.to/saish_k" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### ⚡ The TL;DR
 
-- 🎓 Computer Engineering undergrad with **CGPA 9.63** & Honours in **Data Science**
-- 🧠 Specializing in **High-Performance Systems**, **R&D**, and **Trustworthy AI**
-- 💼 Experience in **Real-time Sensor Pipelines, Serverless Architectures, and Financial AI**
-- 🔬 Selected for the prestigious **ACM Winter School on AI & Finance** (Top 40 in India)
+I do not just ideate; I ship complex, production-grade architecture at extreme velocity. I specialize in building at the intersection of **Enterprise AI Orchestration** and **Zero-Knowledge Cryptography**. 
 
----
+I don't write every line of code by hand. I orchestrate autonomous AI agents and use context-stitching to ship infrastructure in hours, not weeks. Whether it's standing up full-duplex Voice AI streaming pipelines or architecting gasless on-chain privacy protocols, I optimize strictly for execution speed and talent density. 
 
-### 🔭 What I'm Currently Working On
-
-- 🦀 Exploring **Rust** and **Go** for distributed systems safety and performance
-- 🤖 Building **Agentic AI** workflows using **Model Context Protocol (MCP)**
-- ⚡ Optimizing end-to-end latency for real-time data streams
-- ☁️ Leading cloud workshops as the **AWS Cloud Club Captain**
+- 📍 **Currently:** Architecting privacy-preserving P2P infrastructure and deep-tech AI pipelines.
+- 🎓 **Academics:** Computer Engineering (CGPA 9.63) | Honours in Data Science (10.0 GPA).
+- 🏆 **Track Record:** 4x Hackathon Winner (Monad, BNB Chain, ETHOnline, GDG).
 
 ---
 
-## 🛠️ Skills & Technologies
+### 🏗️ Featured Architecture & Sprints
 
-### 💬 Programming Languages
-`C++` `Python` `Rust (Learning)` `Go (Learning)` `Java` `TypeScript` `SQL` `Solidity`
-
-### ⚙️ Systems & Cloud
-`AWS (Lambda, API Gateway, Bedrock)` `Docker` `Kubernetes` `Linux/Unix` `Git` `CI/CD`
-
-### 🧠 AI & Data
-`PyTorch` `TensorFlow` `RAG Pipelines` `LangChain` `Vector DBs (Chroma, Pinecone)`  
-`Gemini SDK` `Pandas` `NumPy`
+* **StakeHub (Monad Blitz Mumbai - 1st Place)** Vibe-coded a complete DeFi staking arena from scratch in exactly 6 hours, deploying highly optimized smart contracts and a fully functional frontend under extreme time constraints.
+* **Ghost Privacy Suite (BNB Chain Global - 2nd Place)** Architected a gasless privacy protocol utilizing Groth16 zero-knowledge (ZK-SNARK) circuits and ERC-4337 Account Abstraction to ensure cryptographically secure, unlinkable transactions. 
+* **WISP (Privacy-Preserving Edge AI)** Built from scratch in a single all-nighter for Hedera Future Apex. Integrated Model Context Protocol (MCP) servers and local AI agents with ZK proofs to process actions without exposing user data on-chain.
 
 ---
 
-## 🚀 Featured Projects
+### 💻 Engineering Experience
 
-### 🧩 **StakED** – Decentralized Academic Prediction Market  
-_MERN | Solidity | Hardhat_  
-- 🏆 **Winner: Best Use of Autoscout Track @ ETHGlobal** - Designed a staking-based prediction protocol with Game-Theoretic incentives  
-
-### 🛰️ **TourRaksha** – Smart Tourist Safety System  
-_Flutter | Next.js | Solidity | Blockchain_  
-- Real-time anomaly detection and geo-fencing for tourist safety  
-- Implemented Blockchain-based digital ID verification  
-
-### 🏃 **RUNFT** – Web3 Move-to-Earn Fitness App  
-_React | Solidity | Express.js | MongoDB_  
-- Minted GPS-based ERC-721 NFTs using Strava integrations  
-- Built marketplace + staking rewards mechanism  
-
-### 💬 **DCB Self-Service Bot** – AI Banking Assistant  
-_Python | Gemini AI | Streamlit | OCR_  
-- Automated multilingual form processing with Textract  
-- Reduced manual documentation load via conversational AI  
+- **Full Stack AI Engineer @ Verit AI**
+  Architected enterprise-grade AI management systems (FastAPI, React). Engineered scalable asynchronous Celery/Redis pipelines to process high-throughput LLM tasks.
+- **Machine Learning Intern @ Commtel Networks**
+  Developed Netra360, a vision system utilizing local LLMs and MCP servers for critical infrastructure monitoring and real-time sensor data ingestion.
+- **Software Developer Intern @ DCB Bank** Built a secure, RAG-based backend for real-time form automation, integrating AWS Textract for high-accuracy OCR processing of sensitive financial data.
 
 ---
 
-## 🏅 Certifications & Badges
+### 🛠️ Core Stack
 
-<p align="center">
-  <a href="https://www.credly.com/badges/fa2f1ccd-82ce-45bf-9854-14a4cca407c7" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/54fdb971-fd75-4c35-88d3-a26abf11dfc8/image.png" height="110" alt="AWS Cloud Club Captain"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/earner/earned/badge/ada53260-fd3d-4569-a259-13df0159b49d" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/bad47198-deb5-48db-bbc3-85adb64db125/blob" height="110" alt="McKinsey Forward"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://badgr.com/public/assertions/KVoFdl_3TZqkLJmHMLv-4Q" target="_blank">
-    <img src="https://ci3.googleusercontent.com/meips/ADKq_NYmP9UXbB7-Lg-rWVNCYuaW-IKkspSuKtrTdfacyQcSqBoa8RxJtgygxmxt2W-La4LNveLo-XMhc2JUE4qNBpUmvyA9qAdOSyJH2XWLVOyXQprGoqpStY1k=s0-d-e1-ft#https://api.badgr.io/public/assertions/KVoFdl_3TZqkLJmHMLv-4Q/image" height="110" alt="Postman API Fundamentals Student Expert"/>
-  </a>
-</p>
+**The Velocity Stack (AI DevTools):** `Claude Code` `Cursor` `Antigravity` `Emergent` `v0` `MCP`  
+**Languages:** `Python` `TypeScript` `Go` `Rust` `Solidity` `Circom` `C++`  
+**AI & Real-Time:** `LangChain` `FAISS` `TensorFlow` `Celery` `Redis` `WebSockets`  
+**Web3 & Cryptography:** `ZK-SNARKs (Groth16)` `ERC-4337` `Hardhat` `Ethers.js`  
+**Infrastructure:** `AWS (Lambda, S3)` `Docker` `Kubernetes` `PostgreSQL` `Next.js`
 
 ---
 
-## 🏆 Achievements
+### 🏆 Trophies & Community
 
-- 🥇 **ETHGlobal Hackathon Winner** (Best Use of Autoscout)
-- 🧠 **Selected Candidate** – ACM Winter School on AI & Finance (IIIT Hyderabad)
-- ☁️ **AWS Cloud Club Captain @ KJSCE**
-- 🚀 **Finalist – Mumbai Hacks 2024 (SaaS Track)**
-- 🏆 **Bayer Science Exhibition – First Prize**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SaishKorgaonkar&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SaishKorgaonkar&layout=compact&theme=tokyonight" />
-</p>
+- **Hackathons (4x Winner):**
+  - 🥇 1st Place — Monad Blitz Mumbai
+  - 🥈 2nd Place — BNB Chain Hackathon (Global)
+  - 🏅 Track Winner (Blockscout) — ETHOnline 2025
+  - 🥈 2nd Place — GDG Techsprint
+- **Leadership:** - ☁️ **Captain**, AWS Cloud Club (Scaled to 500+ developers, focusing on serverless/cloud-native builds).
+  - ⚙️ **Joint General Secretary**, CSI-KJSSE (Orchestrating large-scale symposia and multi-track hackathons).
 
 ---
 
 <p align="center">
-  <i>"Turning curiosity into code, and ideas into impact."</i>
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SaishKorgaonkar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SaishKorgaonkar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
 </p>
