@@ -34,7 +34,7 @@ I don't write every line of code by hand. I orchestrate autonomous AI agents and
 ### 🏗️ Featured Architecture & Sprints
 
 * **StakeHub (Monad Blitz Mumbai - 1st Place)** Vibe-coded a complete DeFi staking arena from scratch in exactly 6 hours, deploying highly optimized smart contracts and a fully functional frontend under extreme time constraints.
-* **Ghost Privacy Suite (BNB Chain Global - 2nd Place)** Architected a gasless privacy protocol utilizing Groth16 zero-knowledge (ZK-SNARK) circuits and ERC-4337 Account Abstraction to ensure cryptographically secure, unlinkable transactions. 
+* **Ghost Privacy Suite (BNB Chain x YZI labs Hackathon Bengaluru - 2nd Place)** Architected a gasless privacy protocol utilizing Groth16 zero-knowledge (ZK-SNARK) circuits and ERC-4337 Account Abstraction to ensure cryptographically secure, unlinkable transactions. 
 * **WISP (Privacy-Preserving Edge AI)** Built from scratch in a single all-nighter for Hedera Future Apex. Integrated Model Context Protocol (MCP) servers and local AI agents with ZK proofs to process actions without exposing user data on-chain.
 
 ---
