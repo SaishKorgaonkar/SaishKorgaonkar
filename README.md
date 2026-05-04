@@ -71,7 +71,12 @@ I don't write every line of code by hand. I orchestrate autonomous AI agents and
 
 ---
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SaishKorgaonkar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SaishKorgaonkar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+
+<div align="center">
+
+| ![Saish's GitHub stats](https://github-readme-stats-beta-snowy-84.vercel.app/api?username=SaishKorgaonkar&show_icons=true&theme=tokyonight&hide_border=true) | ![Top Languages](https://github-readme-stats-beta-snowy-84.vercel.app/api/top-langs/?username=SaishKorgaonkar&layout=compact&theme=tokyonight&hide_border=true) |
+|---|---|
+
+</div>
+
 </p>
