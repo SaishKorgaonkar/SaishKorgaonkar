@@ -33,10 +33,10 @@ Final-year Computer Engineering student and product builder working across **AI,
 `Elixir` · `Go` · `Python` · `TypeScript` · `PostgreSQL` · `Docker` · `Cloud` · `LLM Systems` · `Agentic Workflows` · `MCP` · `Distributed Systems` · `Zero-Knowledge Proofs`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SaishKorgaonkar&show_icons=true&hide_border=true&theme=tokyonight" alt="Saish's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaishKorgaonkar&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats-beta-snowy-84.vercel.app/api?username=SaishKorgaonkar&show_icons=true&hide_border=true&theme=tokyonight" alt="Saish's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats-beta-snowy-84.vercel.app/api/top-langs/?username=SaishKorgaonkar&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SaishKorgaonkar&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=SaishKorgaonkar&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
