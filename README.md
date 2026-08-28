@@ -36,5 +36,3 @@ Final-year Computer Engineering student and product builder working across **AI,
   <img height="165" src="https://github-readme-stats-beta-snowy-84.vercel.app/api?username=SaishKorgaonkar&show_icons=true&hide_border=true&theme=tokyonight" alt="Saish's GitHub statistics" />
   <img height="165" src="https://github-readme-stats-beta-snowy-84.vercel.app/api/top-langs/?username=SaishKorgaonkar&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
 </p>
-
-<p align="center"><a href="https://github.com/SaishKorgaonkar">View my GitHub activity →</a></p>
