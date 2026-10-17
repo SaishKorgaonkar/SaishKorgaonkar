@@ -1,50 +1,34 @@
-<h1 align="center">Hey, I'm Saish 👋</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://saish.xyz">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=560&lines=Software+engineer+%C2%B7+backend+%26+AI+infrastructure;4%C3%97+hackathon+winner;1+of+43+%40+IIMA+Ventures+AI+Residency;Final-year+CompE+%40+K.+J.+Somaiya%2C+Mumbai" alt="Typing intro" />
-  </a>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg"/><img src="assets/header.svg" alt="Saish Korgaonkar, software engineer"/></picture>
 
-<p align="center">
-  <a href="https://saish.xyz"><img src="https://img.shields.io/badge/saish.xyz-111111?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/saish-korgaonkar/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/saishh_k"><img src="https://img.shields.io/badge/@saishh__k-111111?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-  <a href="mailto:contact@saish.xyz"><img src="https://img.shields.io/badge/contact@saish.xyz-111111?style=flat-square&logo=maildotru&logoColor=white" alt="Email" /></a>
-</p>
+<a href="https://saish.xyz"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-0d1117?style=flat-square&logo=googlechrome&logoColor=ffffff"/><img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=flat-square&logo=googlechrome&logoColor=000000" alt="Portfolio"/></picture></a>
+<a href="https://www.linkedin.com/in/saish-korgaonkar/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logoColor=ffffff"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logoColor=000000" alt="Linkedin"/></picture></a>
+<a href="https://x.com/saishh_k"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/X-0d1117?style=flat-square&logo=x&logoColor=ffffff"/><img src="https://img.shields.io/badge/X-ffffff?style=flat-square&logo=x&logoColor=000000" alt="X"/></picture></a>
+<a href="mailto:contact@saish.xyz"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square&logo=maildotru&logoColor=ffffff"/><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square&logo=maildotru&logoColor=000000" alt="Email"/></picture></a>
+<a href="https://codepulse.saish.xyz/activity"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LIVE_ACTIVITY-0d1117?style=flat-square&logo=githubactions&logoColor=ffffff"/><img src="https://img.shields.io/badge/LIVE_ACTIVITY-ffffff?style=flat-square&logo=githubactions&logoColor=000000" alt="Live_Activity"/></picture></a>
 
-### 💼 Experience
+</div>
 
-| Role | Where | |
-|---|---|---|
-| **SWE Intern** | Not Your Idea | Elixir, Phoenix, PostgreSQL, Fly.io |
-| **AI Summer Resident** | IIMA Ventures | 1 of 43 from 11,000+ applicants |
-| **ML Intern** | Commtel Networks | Edge monitoring with local LLMs and MCP |
-| **BI Intern** | DCB Bank | Serverless RAG on AWS Lambda + Textract |
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg"/><img src="assets/s01.svg" alt="01 — whoami"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg"/><img src="assets/whoami.svg" alt="About Saish"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s02.svg"/><img src="assets/s02.svg" alt="02 — experience"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/experience.svg"/><img src="assets/experience.svg" alt="Experience"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/><img src="assets/s03.svg" alt="03 — wins"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/wins.svg"/><img src="assets/wins.svg" alt="Wins and recognition"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg"/><img src="assets/s04.svg" alt="04 — community"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/community.svg"/><img src="assets/community.svg" alt="Community"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s05.svg"/><img src="assets/s05.svg" alt="05 — stack"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"/><img src="assets/stack.svg" alt="Stack"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s06.svg"/><img src="assets/s06.svg" alt="06 — telemetry"/></picture>
 
-### 🏆 Wins
+<div align="center">
 
-| | |
-|---|---|
-| 🥇 **1st Place** | Monad Blitz Mumbai · built solo in 6 hours |
-| 🥈 **2nd Place** | BNB Chain × YZi Labs Hack Series · $3,000 prize |
-| 🏅 **Blockscout Prize** | ETHOnline 2025 |
-| 🥈 **2nd Place** | GDG TechSprint Pune |
-| 🎓 **Selected** | ACM India Winter School, IIIT Hyderabad (1 of 83) · YC Startup School India |
-| ✅ **Open source** | Fix merged in [microsoft/highlight-summarize](https://github.com/microsoft/highlight-summarize/pull/27) |
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-beta-snowy-84.vercel.app/api?username=SaishKorgaonkar&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true&title_color=F0A35E&text_color=9198A1&icon_color=F0A35E"/><img src="https://github-readme-stats-beta-snowy-84.vercel.app/api?username=SaishKorgaonkar&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true&title_color=B35900&text_color=59636E&icon_color=B35900" height="160" alt="GitHub stats"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-beta-snowy-84.vercel.app/api/top-langs/?username=SaishKorgaonkar&layout=compact&langs_count=8&bg_color=00000000&hide_border=true&title_color=F0A35E&text_color=9198A1&icon_color=F0A35E"/><img src="https://github-readme-stats-beta-snowy-84.vercel.app/api/top-langs/?username=SaishKorgaonkar&layout=compact&langs_count=8&bg_color=00000000&hide_border=true&title_color=B35900&text_color=59636E&icon_color=B35900" height="160" alt="Top languages"/></picture>
 
-### 🧰 Tech I work with
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SaishKorgaonkar&hide_border=true&background=00000000&ring=F0A35E&fire=F0A35E&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=F0A35E&sideLabels=9198A1&dates=9198A1&stroke=30363D"/><img src="https://streak-stats.demolab.com?user=SaishKorgaonkar&hide_border=true&background=00000000&ring=B35900&fire=B35900&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=B35900&sideLabels=59636E&dates=59636E&stroke=30363D" height="170" alt="GitHub streak"/></picture>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,py,go,elixir,phoenix,java,cpp,solidity,react,nodejs,postgres,redis,docker,aws,gcp,cloudflare&perline=8" alt="Tech stack" />
-</p>
+</div>
 
-### 📊 GitHub
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats-beta-snowy-84.vercel.app/api?username=SaishKorgaonkar&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats-beta-snowy-84.vercel.app/api/top-langs/?username=SaishKorgaonkar&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SaishKorgaonkar&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"/><img src="assets/footer.svg" alt="Current status"/></picture>

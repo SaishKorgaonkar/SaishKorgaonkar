@@ -1,0 +1,30 @@
+<svg viewBox="0 0 1000 202" width="1000" height="202" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Stack">
+<style>
+.mono{font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace}
+.draw{stroke-dasharray:1000;stroke-dashoffset:1000;animation:draw 1.4s cubic-bezier(.6,0,.2,1) forwards}
+@keyframes draw{to{stroke-dashoffset:0}}
+.rise{opacity:0;animation:rise .8s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+.fade{opacity:0;animation:fade .7s ease forwards}
+@keyframes fade{to{opacity:1}}
+.rot{opacity:0;animation:rot 12s linear infinite}
+@keyframes rot{0%{opacity:0}2%{opacity:1}23%{opacity:1}25%{opacity:0}100%{opacity:0}}
+.blink{animation:blink 1.1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.pulse{transform-origin:center;transform-box:fill-box;animation:pulse 2.2s ease-out infinite}
+@keyframes pulse{0%{transform:scale(1);opacity:.9}100%{transform:scale(3.2);opacity:0}}
+@media (prefers-reduced-motion:reduce){
+  .draw,.rise,.fade,.rot,.blink,.pulse{animation:none}
+  .draw{stroke-dashoffset:0}.rise,.fade{opacity:1}.rot{opacity:0}.rot.r0{opacity:1}
+}
+</style>
+<g class="rise" style="animation-delay:0.10s"><text class="mono" x="48" y="34" font-size="11" fill="#8C959F" letter-spacing="2.5" >LANGUAGES</text><text class="mono" x="190" y="34" font-size="15" fill="#1F2328" >TypeScript · Python · Go · Elixir · Java · C++ · Solidity · SQL</text></g>
+<line x1="48" y1="49" x2="952" y2="49" stroke="#D0D7DE" opacity=".5"/>
+<g class="rise" style="animation-delay:0.25s"><text class="mono" x="48" y="70" font-size="11" fill="#8C959F" letter-spacing="2.5" >BACKEND</text><text class="mono" x="190" y="70" font-size="15" fill="#1F2328" >Phoenix · Ash · Node.js · PostgreSQL · Redis · REST · WebSockets</text></g>
+<line x1="48" y1="85" x2="952" y2="85" stroke="#D0D7DE" opacity=".5"/>
+<g class="rise" style="animation-delay:0.40s"><text class="mono" x="48" y="106" font-size="11" fill="#8C959F" letter-spacing="2.5" >AI</text><text class="mono" x="190" y="106" font-size="15" fill="#1F2328" >RAG · agents · MCP · LangChain · local LLMs · evals and tracing</text></g>
+<line x1="48" y1="121" x2="952" y2="121" stroke="#D0D7DE" opacity=".5"/>
+<g class="rise" style="animation-delay:0.55s"><text class="mono" x="48" y="142" font-size="11" fill="#8C959F" letter-spacing="2.5" >INFRA</text><text class="mono" x="190" y="142" font-size="15" fill="#1F2328" >Docker · AWS · GCP · Fly.io · Vercel · Cloudflare · CI/CD</text></g>
+<line x1="48" y1="157" x2="952" y2="157" stroke="#D0D7DE" opacity=".5"/>
+<g class="rise" style="animation-delay:0.70s"><text class="mono" x="48" y="178" font-size="11" fill="#8C959F" letter-spacing="2.5" >WEB3</text><text class="mono" x="190" y="178" font-size="15" fill="#1F2328" >Circom · Groth16 · ERC-4337 · Hardhat · Foundry</text></g>
+</svg>

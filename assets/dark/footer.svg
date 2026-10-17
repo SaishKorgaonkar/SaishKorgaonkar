@@ -1,0 +1,29 @@
+<svg viewBox="0 0 1000 104" width="1000" height="104" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Current status">
+<style>
+.mono{font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace}
+.draw{stroke-dasharray:1000;stroke-dashoffset:1000;animation:draw 1.4s cubic-bezier(.6,0,.2,1) forwards}
+@keyframes draw{to{stroke-dashoffset:0}}
+.rise{opacity:0;animation:rise .8s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+.fade{opacity:0;animation:fade .7s ease forwards}
+@keyframes fade{to{opacity:1}}
+.rot{opacity:0;animation:rot 12s linear infinite}
+@keyframes rot{0%{opacity:0}2%{opacity:1}23%{opacity:1}25%{opacity:0}100%{opacity:0}}
+.blink{animation:blink 1.1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.pulse{transform-origin:center;transform-box:fill-box;animation:pulse 2.2s ease-out infinite}
+@keyframes pulse{0%{transform:scale(1);opacity:.9}100%{transform:scale(3.2);opacity:0}}
+@media (prefers-reduced-motion:reduce){
+  .draw,.rise,.fade,.rot,.blink,.pulse{animation:none}
+  .draw{stroke-dashoffset:0}.rise,.fade{opacity:1}.rot{opacity:0}.rot.r0{opacity:1}
+}
+</style>
+
+<line class="draw" x1="48" y1="24" x2="952" y2="24" stroke="#30363D"/>
+<circle class="pulse" cx="60" cy="64" r="4" fill="#F0A35E"/>
+<circle cx="60" cy="64" r="4" fill="#F0A35E"/>
+<text class="mono" x="82" y="62" font-size="12" fill="#E6EDF3" letter-spacing="3" >STATUS — SHIPPING</text>
+<text class="mono" x="82" y="82" font-size="11" fill="#9198A1" letter-spacing="1" >open to SWE roles from January 2027 · Mumbai · Bengaluru · remote</text>
+<text class="mono" x="952" y="70" font-size="14" fill="#9198A1" text-anchor="end" >saish.xyz  ·  Mumbai, IN</text>
+
+</svg>
